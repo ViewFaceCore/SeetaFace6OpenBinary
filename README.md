@@ -73,4 +73,4 @@ SeetaFace6Open和ViewFaceBridge编译静态二进制文件。
 将`Bridges`或`SeetaFace`复制到项目`src`目录下面即可。提示替换时，可直接替换。
 
 ### 注意
-GPU版本只支持Windows x64平台，其它平台未编译和测试，可以自行编译。编译工具链基于CUDA 11.7.1，使用GPU版本请先安装CUDA 11.7且需要显卡支持，应该最低需要GT 1030。
+GPU版本只支持Windows x64平台，其它平台未编译和测试，可以自行编译。编译工具链基于CUDA 11.8.0，使用GPU版本请先安装CUDA 11.8且需要显卡支持，应该最低需要GT 1030。
